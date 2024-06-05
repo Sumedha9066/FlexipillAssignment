@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FLEXIPLILL ASSIGNMENT">
+  <test name="Login tests">
+      <classes>
+      <class name="flexipilltests.LogInTests"/>
+      <class name="flexipilltests.CreateOredrTests"/>
+      </classes>
+  </test> <!-- Test -->    
+   <!-- Test -->
+</suite> <!-- Suite -->
