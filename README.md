@@ -4,8 +4,8 @@
 Copy code
 project-root/
 FlexiPill_Test_Cases/
-├── README.md                     # Project overview and instructions
-├── pom.xml (or build.gradle)     # Project build configuration
+├── README.md                    
+├── pom.xml (or build.gradle)     
 ├── src/
 │   └── test/
 │       ├── java/
